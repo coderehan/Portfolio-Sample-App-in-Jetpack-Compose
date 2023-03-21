@@ -119,7 +119,7 @@ fun PortfolioApp() {
 
             Button(onClick = { isOpen.value = !isOpen.value }) {
                 Text(
-                    text = "My Projects",
+                    text = "Click here",
                     style = TextStyle(
                         color = Color.White,
                         fontSize = 18.sp,
